@@ -1,0 +1,1 @@
+SELECT * FROM `ventas` INNER JOIN clientes c ON  v.id_cliente= c.id_cliente
